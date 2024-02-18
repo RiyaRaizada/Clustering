@@ -6,8 +6,7 @@ Clustering is the task of dividing the population or data points into several gr
 
 CLustering algorithms used:  K-mean, Hierarchial, K-mean shift
 Evaluation Parameters: Silhouette score, Calinski-Harabasz Index,  Davies-Bouldin Index
-![image](https://github.com/RiyaRaizada/Clustering/assets/88757064/bd8bc3f3-070a-48c6-afe1-3f36095e0665)
-
+Pre processing Techniques: No preprocessing, Normalization, Principle Component Analysis, Transformation, Transformation+Normalization,  Transformation+Normalization+Principle Component Analysis
 Number of clusters: 3,4,5
 
 
